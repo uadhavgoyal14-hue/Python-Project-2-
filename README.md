@@ -1,8 +1,8 @@
 stock-dashboard/
-│
-├── app.py
-├── requirements.txt
-└── README.md  
+│  
+├── app.py  
+├── requirements.txt  
+└── README.md   
 
 for this  
 </> Bash  
