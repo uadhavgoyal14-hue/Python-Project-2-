@@ -1,4 +1,4 @@
-stock-dashboard/
+stock-dashboard/  
 │  
 ├── app.py  
 ├── requirements.txt  
