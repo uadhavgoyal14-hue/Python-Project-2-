@@ -9,5 +9,5 @@ for this
     pip install streamlit pandas plotly yfinance numpy
 
 To Run  
-</>Bash
+</>Bash  
     streamlit run app.py
